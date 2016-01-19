@@ -1,10 +1,5 @@
 #include <pebble.h>
 
-define Num_menu_sections = 4;
-define Num_menu_icons = 3;
-define Num_first_menu_items = 3;
-define Num_second_menu_items = 1;
-
 
 static Window *main_window;
 static ScrollLayer *s_scroll_layer;
