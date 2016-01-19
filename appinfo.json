@@ -1,0 +1,26 @@
+{
+    "appKeys": {
+        "dummy": 0
+    },
+    "capabilities": [
+        ""
+    ],
+    "companyName": "MakeAwesomeHappen",
+    "longName": "Floodwatch",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "sdkVersion": "3",
+    "shortName": "Floodwatch",
+    "targetPlatforms": [
+        "aplite",
+        "basalt",
+        "chalk"
+    ],
+    "uuid": "d8a465f7-6bf5-4093-9323-99915b8848ba",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
